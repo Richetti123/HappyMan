@@ -11,9 +11,9 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["51955095498", 'Richetti', true], //Richetti
-["51933348947"], 
-["56945086055"], 
+["56941827124", 'Richetti', true], //Richetti
+["51966254634"], 
+["18097644276"], 
 ["56945086055"], 
 ["56945086055"],
 ["56945086055"],
@@ -103,31 +103,31 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["56945086055", 'MichiBot', 1], 
-["56945086055", 'MichiBot', 1],  
-["56945086055", 'MichiBot', 1],
-["56945086055", 'MichiBot', 1],
-["56945086055", 'MichiBot', 1]]
+["56945086055", 'HappyMan', 1], 
+["56945086055", 'HappyMan', 1],  
+["56945086055", 'HappyMan', 1],
+["56945086055", 'HappyMan', 1],
+["56945086055", 'HappyMan', 1]]
 
 global.mail = '' //agrega tú correo
-global.desc = 'MichiBot el mejor bot de whatsapp' //agrega una descripción corta
-global.desc2 = 'MichiBot el mejor bot de whatsapp' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
+global.desc = 'HappyMan el mejor bot de whatsapp' //agrega una descripción corta
+global.desc2 = 'HappyMan el mejor bot de whatsapp' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = 'Perú' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "MichiBot"
-global.author = "MichiBot"
+global.packname = "HappyMan"
+global.author = "HappyMan"
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
-global.gt = "MichiBot"
-global.yt = "https://www.instagram.com/ceogeripium.dzn"
-global.yt2 = "https://www.instagram.com/ceogeripium.dzn"
-global.ig = "https://www.instagram.com/ceogeripium.dzn"
-global.md = "https://www.instagram.com/ceogeripium.dzn"
-global.fb = "https://www.instagram.com/ceogeripium.dzn"
+global.gt = "HappyMan"
+global.yt = "https://www.instagram.com/natham.lara"
+global.yt2 = "https://www.instagram.com/natham.lara"
+global.ig = "https://www.instagram.com/natham.lara"
+global.md = "https://www.instagram.com/natham.lara"
+global.fb = "https://www.instagram.com/natham.lara"
 
 global.nna = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //CANAL UPDATE
 global.nn2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //UPDATE
@@ -177,8 +177,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "MichiBot"
-global.igfg = "MichiBot"
+global.wm = "HappyMan"
+global.igfg = "HappyMan"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
